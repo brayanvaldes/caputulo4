@@ -1,10 +1,10 @@
-# 💻 Quantum Systems Simulator — Capítulo 4
+#  Quantum Systems Simulator — Capítulo 4
 
 Este proyecto simula los sistemas cuánticos presentados en el **Capítulo 4** del libro *Quantum Computing for Computer Scientists* (Yanofsky y Mannucci), utilizando Python y Jupyter Notebooks.
 
 ---
 
-## 📚 Descripción del sistema
+##  Descripción del sistema
 
 El sistema principal modela una **partícula cuántica confinada a un conjunto discreto de posiciones** sobre una línea, como se describe en la **sección 4.1** del libro.
 
